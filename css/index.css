@@ -23,7 +23,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+/* HTML5 display-role reset for older browsers - Sprint Challenge */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
 ol, ul {
 	list-style: none;
 }
@@ -104,7 +105,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    /* background: black; */
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -144,3 +145,140 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    align-items: flex-end; 
+}
+
+header a {
+    color: black;
+}
+
+.top-content img {
+    margin: 15px 0px 25px 0px;
+}
+
+
+.firstBox{
+    background: teal;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.secondBox{
+    background: gold;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thirdBox{
+    background: cadetblue;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fourthBox{
+    background: coral;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fifthBox{
+    background: crimson;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sixthBox{
+    background: forestgreen;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.seventhBox{
+    background: darkorchid;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.eigthBox{
+    background: hotpink;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ninthBox{
+    background: indigo;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tenthBox{
+    background: dodgerblue;
+    width: 12.5%;
+    height: 100px;
+    /* background: black; */
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
